@@ -8,3 +8,5 @@ def calculate(nums: list , operation: str = "sum") -> int :
         return result
 print (calculate([1,2,3,4],"sum"))
 print (calculate([5,3,2],"product"))
+
+

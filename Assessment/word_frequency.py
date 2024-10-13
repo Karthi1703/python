@@ -4,3 +4,9 @@ def word_frequency(sentence: str) -> dict:
     return {word: words.count(word) for word in set(words)}
 
 print(word_frequency("Hello world! Hello"))
+
+
+
+
+
+
